@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SessionTimeOut App</string>
+    <string name="login">Login</string>
+    <string name="enter_pin">Enter Pin</string>
+</resources>
